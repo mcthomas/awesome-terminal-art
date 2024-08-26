@@ -3,11 +3,11 @@ An index of popular scripts and programs that produce static or animated artisti
 
 ## Requirements
 
-- must be made for fun and not purely utilitarian (a beautiful system process viewer wouldn't make the cut, or even something like [hollywood;](https://github.com/dustinkirkland/hollywood) neither would indicators like [ILoveCandy](https://bbs.archlinux.org/viewtopic.php?id=121699))
+- must be made for fun and not purely utilitarian (a beautiful system process viewer wouldn't make the cut, or even something like [hollywood;](https://github.com/dustinkirkland/hollywood) neither would indicators like [ILoveCandy](https://bbs.archlinux.org/viewtopic.php?id=121699) or purely data aids like $ curl wttr.in/moon)
 - must display in some shell, but no specific character encoding or formatting requirements
 - can be an easter egg within a program
-- cannot be a terminal "effect" requiring input e.g. [lolcat](https://github.com/busyloop/lolcat)
-- cannot be a "filter" of other content e.g. [ascii.theater](https://ascii.theater/); content must be built for the shell
+- cannot be exclusively a terminal "effect" requiring input e.g. [lolcat](https://github.com/busyloop/lolcat) or [figlet](https://github.com/cmatsuoka/figlet)
+- cannot be a filter or conversion of other visual content e.g. [ascii.theater](https://ascii.theater/); content must be made for the shell
 - cannot be an audio visualizer e.g. [cava](https://github.com/karlstav/cava)
 - cannot be an [asciinema](https://asciinema.org/) cast
 - cannot be a [game](https://github.com/ligurio/awesome-ttygames)
@@ -17,8 +17,10 @@ An index of popular scripts and programs that produce static or animated artisti
 - $ [ack](https://github.com/beyondgrep/ack3) --bar
 - $ [ack](https://github.com/beyondgrep/ack3) --thppt
 - [bonsai](https://github.com/formal-land/coq-bonsai)
+- $ [boxes](https://github.com/ascii-boxes/boxes) -l
 - [cowsay](https://github.com/piuccio/cowsay)
 - [cowthink](https://linux.die.net/man/1/cowthink)
+- $ [fortune](https://wiki.debian.org/fortune) asciiart
 - [parrotsay](https://github.com/matheuss/parrotsay)
 - [vim](https://github.com/vim/vim) :smile
 
@@ -38,7 +40,7 @@ An index of popular scripts and programs that produce static or animated artisti
 - $ curl ascii.live/nyan
 - $ curl node-web-console.glitch.me
 - [duckpond](duckpond.sh)
-- [emacs](https://github.com/emacs-mirror/emacs) M-x zone
+- [emacs](https://github.com/emacs-mirror/emacs) M-x hanoi
 - [falling-<3s.sh](https://storage.googleapis.com/google-code-archive-source/v2/code.google.com/yjl/source-archive.zip)
 - [gh-screensaver: fireworks / starfield / pipes / pollock / life](https://github.com/vilmibm/gh-screensaver)
 - [Langton's Ant / Mandelbrot](http://web.archive.org/web/20130706075558/http://earth.gkhs.net/ccooke/shell.html)
