@@ -1,9 +1,11 @@
 # awesome-terminal-art
 An index of popular scripts and programs that produce static or animated artistic visuals in a terminal emulator
 
+_I am considering adding descriptions and screenshots/asciinema casts to the entries in the future_
+
 ## Requirements
 
-- must be made for fun and not purely utilitarian (a beautiful system process viewer wouldn't make the cut, or even something like [hollywood;](https://github.com/dustinkirkland/hollywood) neither would indicators like [ILoveCandy](https://bbs.archlinux.org/viewtopic.php?id=121699) or purely data aids like $ curl wttr.in/moon)
+- must be made for fun and not purely utilitarian (a beautiful system process viewer wouldn't make the cut, or even something like [hollywood;](https://github.com/dustinkirkland/hollywood) neither would indicators like [ILoveCandy](https://bbs.archlinux.org/viewtopic.php?id=121699))
 - must display in some shell, but no specific character encoding or formatting requirements
 - can be an easter egg within a program
 - cannot be exclusively a terminal "effect" requiring input e.g. [lolcat](https://github.com/busyloop/lolcat) or [figlet](https://github.com/cmatsuoka/figlet)
@@ -20,6 +22,7 @@ An index of popular scripts and programs that produce static or animated artisti
 - $ [boxes](https://github.com/ascii-boxes/boxes) -l
 - [cowsay](https://github.com/piuccio/cowsay)
 - [cowthink](https://linux.die.net/man/1/cowthink)
+- $ curl [wttr.in](https://github.com/chubin/wttr.in)/moon _(the art is considerably larger than / separated from the data)_
 - $ [fortune](https://wiki.debian.org/fortune) asciiart
 - [parrotsay](https://github.com/matheuss/parrotsay)
 - [vim](https://github.com/vim/vim) :smile
@@ -29,6 +32,7 @@ An index of popular scripts and programs that produce static or animated artisti
 - [aafire](https://aa-project.sourceforge.net/aalib/)
 - [aajm](http://icculus.org/jugglemaster/aa/)
 - [ascsaver: dogs / globe / monkey / nasa / rmrf / star_wars / van_halen](https://gitlab.com/mezantrop/ascsaver)
+- [ascii.live: batman&robin, batman, coin, donut, dvd, forrest, frames, knot, nebulaehes, nyan, parrot, playstation, rick, spidyswing](https://github.com/hugomd/ascii-live) _(some available via $ curl ascii.live/[pattern])_
 - [asciiquarium](https://github.com/cmatsuoka/asciiquarium)
 - $ bash [fireworks.sh](https://archive.org/details/bash-fireworks) 2> errors.txt
 - [bb](https://github.com/denisse-dev/bb)
@@ -36,9 +40,8 @@ An index of popular scripts and programs that produce static or animated artisti
 - [cacademo: metaballs / moire pattern of concentric circles / old school plasma / Matrix-like scrolling](https://linux.die.net/man/1/cacademo)
 - [cbeams](https://github.com/tartley/cbeams)
 - [cmatrix](https://github.com/abishekvashok/cmatrix)
-- $ curl ascii.live/forrest
-- $ curl ascii.live/nyan
-- $ curl node-web-console.glitch.me
+- $ curl [node-web-console.glitch.me](https://github.com/stefanbohacek/node-web-console)
+- $ curl [parrot.live](https://github.com/hugomd/parrot.live)
 - [duckpond](duckpond.sh)
 - [emacs](https://github.com/emacs-mirror/emacs) M-x hanoi
 - [falling-<3s.sh](https://storage.googleapis.com/google-code-archive-source/v2/code.google.com/yjl/source-archive.zip)
@@ -59,7 +62,7 @@ An index of popular scripts and programs that produce static or animated artisti
 - [tfire](https://github.com/tech-chad/tfire)
 - [tspace](https://github.com/mtklr/tspace)
 - [VT100 ascii animations](http://mewbies.com/geek_fun_files/vt100/vt_files.zip)
-- [weatherspect](https://robobunny.com/projects/weatherspect/html/) (included because- despite being part of a utilitarian program- the ascii art is supplementary and elaborate)
+- [weatherspect](https://robobunny.com/projects/weatherspect/html/) _(despite being part of a utilitarian program- the ascii art is supplementary and elaborate)_
 - [weave.sh](https://github.com/pipeseroni/weave.sh)
 - [worms](https://github.com/ctdk/bsdgames-osx)
 - $ [xaos](https://github.com/xaos-project/XaoS) -driver aa -extended  -autopilot -autorotate on -dim -bold -gamma .9
