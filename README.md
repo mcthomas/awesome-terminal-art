@@ -1,7 +1,7 @@
 # awesome-terminal-art
 An index of popular scripts and programs that produce static or animated artistic visuals in a terminal emulator
 
-_I am considering adding descriptions and screenshots/asciinema casts to the entries in the future_
+_I am considering adding individual descriptions and screenshots/asciinema casts to the entries in the future_
 
 ## Requirements
 
@@ -34,22 +34,22 @@ _I am considering adding descriptions and screenshots/asciinema casts to the ent
 - [ascsaver: dogs / globe / monkey / nasa / rmrf / star_wars / van_halen](https://gitlab.com/mezantrop/ascsaver)
 - [ascii.live: batman&robin, batman, coin, donut, dvd, forrest, frames, knot, nebulaehes, nyan, parrot, playstation, rick, spidyswing](https://github.com/hugomd/ascii-live) _(some available via $ curl ascii.live/[pattern])_
 - [asciiquarium](https://github.com/cmatsuoka/asciiquarium)
-- $ bash [fireworks.sh](https://archive.org/details/bash-fireworks) 2> errors.txt
 - [bb](https://github.com/denisse-dev/bb)
 - [blue ocean](https://github.com/lbgists/blue-ocean)
 - [cacademo: metaballs / moire pattern of concentric circles / old school plasma / Matrix-like scrolling](https://linux.die.net/man/1/cacademo)
 - [cbeams](https://github.com/tartley/cbeams)
 - [cmatrix](https://github.com/abishekvashok/cmatrix)
-- $ curl [node-web-console.glitch.me](https://github.com/stefanbohacek/node-web-console)
-- $ curl [parrot.live](https://github.com/hugomd/parrot.live)
 - [duckpond](duckpond.sh)
 - [emacs](https://github.com/emacs-mirror/emacs) M-x hanoi
 - [falling-<3s.sh](https://storage.googleapis.com/google-code-archive-source/v2/code.google.com/yjl/source-archive.zip)
+- $ bash [fireworks.sh](https://archive.org/details/bash-fireworks) 2> errors.txt
 - [gh-screensaver: fireworks / starfield / pipes / pollock / life](https://github.com/vilmibm/gh-screensaver)
 - [Langton's Ant / Mandelbrot](http://web.archive.org/web/20130706075558/http://earth.gkhs.net/ccooke/shell.html)
 - [lavat](https://github.com/AngelJumbo/lavat)
 - [maze.py](https://github.com/pipeseroni/maze.py)
+- $ curl [node-web-console.glitch.me](https://github.com/stefanbohacek/node-web-console)
 - [nyancat](https://github.com/klange/nyancat)
+- $ curl [parrot.live](https://github.com/hugomd/parrot.live)
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh)
 - [pipesX.sh](https://github.com/pipeseroni/pipesX.sh)
 - [rain](https://github.com/nkleemann/ascii-rain)
@@ -58,6 +58,7 @@ _I am considering adding descriptions and screenshots/asciinema casts to the ent
 - [snakes.pl](https://github.com/pipeseroni/snakes.pl)
 - [snowmachine](https://github.com/sontek/snowmachine)
 - [star wars ascii re-creation](https://github.com/gabe565/ascii-movie)
+- [termdvd](https://github.com/nyankittone/termdvd)
 - [terminal-parrot](https://github.com/jmhobbs/terminal-parrot)
 - [tfire](https://github.com/tech-chad/tfire)
 - [tspace](https://github.com/mtklr/tspace)
