@@ -32,7 +32,7 @@ _I am considering adding individual descriptions and screenshots/asciinema casts
 - [aafire](https://aa-project.sourceforge.net/aalib/)
 - [aajm](http://icculus.org/jugglemaster/aa/)
 - [ascsaver: dogs / globe / monkey / nasa / rmrf / star_wars / van_halen](https://gitlab.com/mezantrop/ascsaver)
-- [ascii.live: batman&robin, batman, coin, donut, dvd, forrest, frames, knot, nebulaehes, nyan, parrot, playstation, rick, spidyswing](https://github.com/hugomd/ascii-live) _(some available via $ curl ascii.live/[pattern])_
+- [ascii.live: batman&robin, batman, coin, donut, dvd, forrest, frames, knot, nebulaehes, nyan, parrot, playstation, spidyswing](https://github.com/hugomd/ascii-live) _(some available via $ curl ascii.live/[pattern])_
 - [asciiquarium](https://github.com/cmatsuoka/asciiquarium)
 - [bb](https://github.com/denisse-dev/bb)
 - [blue ocean](https://github.com/lbgists/blue-ocean)
@@ -47,6 +47,7 @@ _I am considering adding individual descriptions and screenshots/asciinema casts
 - [Langton's Ant / Mandelbrot](http://web.archive.org/web/20130706075558/http://earth.gkhs.net/ccooke/shell.html)
 - [lavat](https://github.com/AngelJumbo/lavat)
 - [maze.py](https://github.com/pipeseroni/maze.py)
+- $ ssh [movie.gabe565.com](https://github.com/gabe565/ascii-movie)
 - $ curl [node-web-console.glitch.me](https://github.com/stefanbohacek/node-web-console)
 - [nyancat](https://github.com/klange/nyancat)
 - $ curl [parrot.live](https://github.com/hugomd/parrot.live)
@@ -57,7 +58,6 @@ _I am considering adding individual descriptions and screenshots/asciinema casts
 - [sl](https://github.com/mtoyoda/sl)
 - [snakes.pl](https://github.com/pipeseroni/snakes.pl)
 - [snowmachine](https://github.com/sontek/snowmachine)
-- [star wars ascii re-creation](https://github.com/gabe565/ascii-movie)
 - [termdvd](https://github.com/nyankittone/termdvd)
 - [terminal-parrot](https://github.com/jmhobbs/terminal-parrot)
 - [tfire](https://github.com/tech-chad/tfire)
