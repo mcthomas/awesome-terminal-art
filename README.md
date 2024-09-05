@@ -55,6 +55,7 @@ _I am considering adding individual descriptions and screenshots/asciinema casts
 - [pipesX.sh](https://github.com/pipeseroni/pipesX.sh)
 - [rain](https://github.com/nkleemann/ascii-rain)
 - [rain](https://github.com/ctdk/bsdgames-osx) (from "bsdgames")
+- [rickrollrc](https://github.com/keroserene/rickrollrc)
 - [sl](https://github.com/mtoyoda/sl)
 - [snakes.pl](https://github.com/pipeseroni/snakes.pl)
 - [snowmachine](https://github.com/sontek/snowmachine)
