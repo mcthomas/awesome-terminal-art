@@ -22,10 +22,11 @@ _I am considering adding individual descriptions and screenshots/asciinema casts
 - $ [boxes](https://github.com/ascii-boxes/boxes) -l
 - [cowsay](https://github.com/piuccio/cowsay)
 - [cowthink](https://linux.die.net/man/1/cowthink)
-- $ curl [wttr.in](https://github.com/chubin/wttr.in)/moon _(the art is considerably larger than / separated from the data)_
 - $ [fortune](https://wiki.debian.org/fortune) asciiart
+- [globe](https://github.com/Distrotech/globe)
 - [parrotsay](https://github.com/matheuss/parrotsay)
 - [vim](https://github.com/vim/vim) :smile
+- $ curl [wttr.in](https://github.com/chubin/wttr.in)/moon _(the art is considerably larger than / separated from the data)_
 
 ### Animated
 
