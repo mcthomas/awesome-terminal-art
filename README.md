@@ -40,7 +40,7 @@ _I am considering adding individual descriptions and screenshots/asciinema casts
 - [cacademo: metaballs / moire pattern of concentric circles / old school plasma / Matrix-like scrolling](https://linux.die.net/man/1/cacademo)
 - [cbeams](https://github.com/tartley/cbeams)
 - [cmatrix](https://github.com/abishekvashok/cmatrix)
-- [duckpond](duckpond.sh)
+- [duckpond](https://github.com/gsobell/duckpond.sh)
 - [emacs](https://github.com/emacs-mirror/emacs) M-x hanoi
 - [falling-<3s.sh](https://storage.googleapis.com/google-code-archive-source/v2/code.google.com/yjl/source-archive.zip)
 - $ bash [fireworks.sh](https://archive.org/details/bash-fireworks) 2> errors.txt
@@ -56,7 +56,6 @@ _I am considering adding individual descriptions and screenshots/asciinema casts
 - [pipesX.sh](https://github.com/pipeseroni/pipesX.sh)
 - [rain](https://github.com/nkleemann/ascii-rain)
 - [rain](https://github.com/ctdk/bsdgames-osx) (from "bsdgames")
-- [rickrollrc](https://github.com/keroserene/rickrollrc)
 - [sl](https://github.com/mtoyoda/sl)
 - [snakes.pl](https://github.com/pipeseroni/snakes.pl)
 - [snowmachine](https://github.com/sontek/snowmachine)
