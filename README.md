@@ -9,7 +9,7 @@ _I am considering adding individual descriptions and screenshots/asciinema casts
 - must display in some shell, but no specific character encoding or formatting requirements
 - can be an easter egg within a program
 - cannot be exclusively a terminal "effect" requiring input e.g. [lolcat](https://github.com/busyloop/lolcat) or [figlet](https://github.com/cmatsuoka/figlet)
-- cannot be a filter or conversion of other visual content e.g. [ascii.theater](https://ascii.theater/); content must be made for the shell
+- cannot be a filter or conversion of other visual content e.g. [ascii.theater](https://ascii.theater/) or [rickrollrc](https://github.com/keroserene/rickrollrc); content must be made for the shell
 - cannot be an audio visualizer e.g. [cava](https://github.com/karlstav/cava)
 - cannot be an [asciinema](https://asciinema.org/) cast
 - cannot be a [game](https://github.com/ligurio/awesome-ttygames)
