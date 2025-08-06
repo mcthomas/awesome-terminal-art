@@ -8,7 +8,7 @@ _I am considering adding individual descriptions and screenshots/asciinema casts
 - must be made for fun and not purely utilitarian (a beautiful system process viewer wouldn't make the cut, or even something like [hollywood;](https://github.com/dustinkirkland/hollywood) neither would indicators like [ILoveCandy](https://bbs.archlinux.org/viewtopic.php?id=121699))
 - must display in some shell, but no specific character encoding or formatting requirements
 - can be an easter egg within a program
-- cannot be exclusively a terminal "effect" requiring input e.g. [lolcat](https://github.com/busyloop/lolcat) or [figlet](https://github.com/cmatsuoka/figlet)
+- cannot be exclusively a terminal "effect" requiring input e.g. [lolcat,](https://github.com/busyloop/lolcat) [figlet,](https://github.com/cmatsuoka/figlet) or [TerminalTextEffects](https://github.com/ChrisBuilds/terminaltexteffects)
 - cannot be a filter or conversion of other visual content e.g. [ascii.theater](https://ascii.theater/) or [rickrollrc](https://github.com/keroserene/rickrollrc); content must be made for the shell
 - cannot be an audio visualizer e.g. [cava](https://github.com/karlstav/cava)
 - cannot be an [asciinema](https://asciinema.org/) cast
@@ -22,6 +22,7 @@ _I am considering adding individual descriptions and screenshots/asciinema casts
 - $ [boxes](https://github.com/ascii-boxes/boxes) -l
 - [cowsay](https://github.com/piuccio/cowsay)
 - [cowthink](https://linux.die.net/man/1/cowthink)
+- [Flower Garden CLI](https://github.com/bdavidzhang/flower-garden-cli) _(functions more as an artful simulation than as a game that requires interaction)_
 - $ [fortune](https://wiki.debian.org/fortune) asciiart
 - [globe](https://github.com/Distrotech/globe)
 - [parrotsay](https://github.com/matheuss/parrotsay)
