@@ -69,3 +69,4 @@ _I am considering adding individual descriptions and screenshots/asciinema casts
 - [weave.sh](https://github.com/pipeseroni/weave.sh)
 - [worms](https://github.com/ctdk/bsdgames-osx)
 - $ [xaos](https://github.com/xaos-project/XaoS) -driver aa -extended  -autopilot -autorotate on -dim -bold -gamma .9
+- [zenta](https://github.com/e6a5/zenta)
