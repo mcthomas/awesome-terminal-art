@@ -33,6 +33,7 @@ _I am considering adding individual descriptions and screenshots/asciinema casts
 
 - [aafire](https://aa-project.sourceforge.net/aalib/)
 - [aajm](http://icculus.org/jugglemaster/aa/)
+- [arttime](https://github.com/poetaman/arttime)
 - [ascsaver: dogs / globe / monkey / nasa / rmrf / star_wars / van_halen](https://gitlab.com/mezantrop/ascsaver)
 - [ascii.live: batman&robin, batman, coin, donut, dvd, forrest, frames, knot, nebulaehes, nyan, parrot, playstation, spidyswing](https://github.com/hugomd/ascii-live) _(some available via $ curl ascii.live/[pattern])_
 - [asciiquarium](https://github.com/cmatsuoka/asciiquarium)
