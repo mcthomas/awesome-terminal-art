@@ -41,7 +41,9 @@ _I am considering adding individual descriptions and screenshots/asciinema casts
 - [blue ocean](https://github.com/lbgists/blue-ocean)
 - [cacademo: metaballs / moire pattern of concentric circles / old school plasma / Matrix-like scrolling](https://linux.die.net/man/1/cacademo)
 - [cbeams](https://github.com/tartley/cbeams)
+- [cbirds](https://github.com/clainstone/cbirds)
 - [cmatrix](https://github.com/abishekvashok/cmatrix)
+- [csakura](https://github.com/realstrawhat/csakura)
 - [duckpond](https://github.com/gsobell/duckpond.sh)
 - [emacs](https://github.com/emacs-mirror/emacs) M-x hanoi
 - [falling-<3s.sh](https://storage.googleapis.com/google-code-archive-source/v2/code.google.com/yjl/source-archive.zip)
